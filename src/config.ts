@@ -1,17 +1,17 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
-  host: 'http://localhost',
+  secretKey: 'wreducacional@85232025',
+  host: 'http://212.85.20.188',
   port: '21465',
-  deviceName: 'WppConnect',
-  poweredBy: 'WPPConnect-Server',
+  deviceName: 'WREDUCACIONAL-SERVER',
+  poweredBy: 'WREducacional',
   startAllSession: true,
   tokenStoreType: 'file',
   maxListeners: 15,
   customUserDataDir: './userDataDir/',
   webhook: {
-    url: null,
+    url: 'https://webhook.site/3544b163-8001-4238-bc80-6baa595254b9',
     autoDownload: true,
     uploadS3: false,
     readMessage: true,
