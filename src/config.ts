@@ -2,8 +2,8 @@ import { ServerOptions } from './types/ServerOptions';
 
 export default {
   secretKey: 'wreducacional@85232025',
-  host: 'http://212.85.20.188',
-  port: '21465',
+  host: '0.0.0.0', ,
+  port: '80',
   deviceName: 'WREDUCACIONAL-SERVER',
   poweredBy: 'WREducacional',
   startAllSession: true,
