@@ -3,7 +3,7 @@ import { ServerOptions } from './types/ServerOptions';
 export default {
   secretKey: 'wreducacional@85232025',
   host: '0.0.0.0', ,
-  port: '80',
+  port: '21465',
   deviceName: 'WREDUCACIONAL-SERVER',
   poweredBy: 'WREducacional',
   startAllSession: true,
